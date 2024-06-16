@@ -30,3 +30,4 @@ devenv
 devenv/
 .devenv/
 .devenv.flake.nix
+python/venv/
